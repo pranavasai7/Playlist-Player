@@ -1,0 +1,17 @@
+Song Number, Artist, Song Name, File Path
+1, Ed Sheeran, Shape of You,./SHAPE_OF_YOU.mp3
+2, Ed Sheeran, Beautiful People,./BEAUTIFUL PEOPLE.mp3
+3, Justin Bieber, STAY,./STAY.mp3
+4, Justin Bieber, GHOST,./Ghost.mp3
+5, Michael Jackson, Black or White,./BoW.mp3
+6, Michael Jackson, Billie Jean,./BJ.mp3
+7, Taylor Swift, All Too Well,./ATW.mp3 
+8, Taylor Swift, The Joker and The Queen,./JQ.mp3
+9, Lady Gaga, Shallow,./Shallow.mp3
+10, Lady Gaga, Just Dance,./Just Dance.mp3
+11, Miley Cyrus, The Climb,./TheClimb.mp3
+12, Miley Cyrus, Party in the U.S.A,./Party.mp3
+13, Avicii, The Nights,./The Nights.mp3
+14, Luis Fonsi, Despacito,./Despacito.mp3
+15, The Weeknd, Blinding Lights,./Blinding Lights.mp3
+16, Shakira, Waka Waka,./Waka Waka.mp3
